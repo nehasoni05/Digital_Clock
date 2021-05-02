@@ -1,2 +1,19 @@
 # Digital_Clock
-Digital Clock | With Date (Day, Month, Year) - Using HTML, CSS &amp; Javascript
+A digital clock or watch in which the hours, minutes, and sometimes seconds are indicated by digits, as opposed to an analog clock, where the time is indicated by the positions of rotating hands. 
+<a href="https://nehasoni.hashnode.dev/digital-clock-using-javascript"> <img src="project_images/clock.png" alt="blog post"></a>
+## Prerequisite
+- Basic knowledge of HTML
+- Basic knowledge of CSS
+- Basic knowledge of JavaScript
+
+## About the project
+A digital clock or watch in which the hours, minutes, and sometimes seconds are indicated by digits, as opposed to an analog clock, where the time is indicated by the positions of rotating hands. You can find a step by step walkthrough in my Blog. Use the above linked image to navigate to my Blog.
+
+## Some Snaps from the app
+<p>
+<img src="project_images/Screenshot (244).png" width="400">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-aa8f11c7c50c.gif" width="400">
+</p>
+I would ❤ to connect with you at  [Twitter](https://twitter.com/nehasoni__)  |  [LinkedIn](https://www.linkedin.com/in/neha-soni-70a6231b1/)
+
+ ### Show some ❤️ by starring some of the repositories!
